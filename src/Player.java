@@ -13,6 +13,7 @@ public interface Player
      * 
      * @return A name for this player
      */
+	
     String name();
 
   
